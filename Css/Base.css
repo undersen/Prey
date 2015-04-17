@@ -1,0 +1,18 @@
+body{
+background-color: #0E618F;
+}
+
+
+#Image{
+
+	width: 60%;
+	min-width: 100px;
+	padding-top: 30px;
+	
+}
+
+a{
+
+	width: 154px;
+	padding: 10px;
+}
