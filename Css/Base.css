@@ -4,15 +4,23 @@ background-color: #0E618F;
 
 
 #Image{
-
-	width: 60%;
-	min-width: 100px;
+	width: 50%;
+	min-width: 75px;
 	padding-top: 30px;
-	
 }
 
 a{
-
 	width: 154px;
-	padding: 10px;
+	margin: 10px;
+}
+
+blockquote {
+
+  font-size: 15px;
+
+}
+
+#parameter
+{
+margin:10px;
 }
